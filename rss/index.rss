@@ -1,66 +1,26 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Browsed</title><description>Explore the web uniquely.</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Sun, 31 Jan 2016 20:33:11 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Welcome to Ghost</title><description>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list&lt;/p&gt;</description><link>http://localhost:2368/2016/02/01/welcome-to-ghost/</link><guid isPermaLink="false">b50defa3-3975-4568-9c2c-6af99c196404</guid><category>Getting Started</category><dc:creator>Sitesh Shrivastava</dc:creator><pubDate>Sun, 31 Jan 2016 20:04:05 GMT</pubDate><content:encoded>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!&lt;/p&gt;
-
-&lt;h2 id="gettingstarted"&gt;Getting Started&lt;/h2&gt;
-
-&lt;p&gt;Ghost uses something called Markdown for writing. Essentially, it's a shorthand way to manage your post formatting as you write!&lt;/p&gt;
-
-&lt;p&gt;Writing in Markdown is really easy. In the left hand panel of Ghost, you simply write as you normally would. Where appropriate, you can use &lt;em&gt;shortcuts&lt;/em&gt; to &lt;strong&gt;style&lt;/strong&gt; your content. For example, a list:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Item number one&lt;/li&gt;
-&lt;li&gt;Item number two
-&lt;ul&gt;&lt;li&gt;A nested item&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;A final item&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;or with numbers!&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Remember to buy some milk  &lt;/li&gt;
-&lt;li&gt;Drink the milk  &lt;/li&gt;
-&lt;li&gt;Tweet that I remembered to buy the milk, and drank it&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id="links"&gt;Links&lt;/h3&gt;
-
-&lt;p&gt;Want to link to a source? No problem. If you paste in a URL, like &lt;a href="http://ghost.org"&gt;http://ghost.org&lt;/a&gt; - it'll automatically be linked up. But if you want to customise your anchor text, you can do that too! Here's a link to &lt;a href="http://ghost.org"&gt;the Ghost website&lt;/a&gt;. Neat.&lt;/p&gt;
-
-&lt;h3 id="whataboutimages"&gt;What about Images?&lt;/h3&gt;
-
-&lt;p&gt;Images work too! Already know the URL of the image you want to include in your article? Simply paste it in like this to make it show up:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://ghost.org/images/ghost.png" alt="The Ghost Logo"&gt;&lt;/p&gt;
-
-&lt;p&gt;Not sure which image you want to use yet? That's ok too. Leave yourself a descriptive placeholder and keep writing. Come back later and drag and drop the image in to upload:&lt;/p&gt;
-
-&lt;h3 id="quoting"&gt;Quoting&lt;/h3&gt;
-
-&lt;p&gt;Sometimes a link isn't enough, you want to quote someone on what they've said. Perhaps you've started using a new blogging platform and feel the sudden urge to share their slogan? A quote might be just the way to do it!&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ghost - Just a blogging platform&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Browsed</title><description>Explore the web uniquely.</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Sun, 31 Jan 2016 22:48:19 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>What is Browsed?</title><description>&lt;blockquote&gt;
+  &lt;p&gt;Man is by nature a social animal. &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id="workingwithcode"&gt;Working with Code&lt;/h3&gt;
+&lt;p&gt;In contrast to other living beings, We don't just &lt;em&gt;need&lt;/em&gt; to be with other people but, we &lt;em&gt;choose&lt;/em&gt; to be with someone for a reason. It may be for a companion, a family member, a colleague, a friend or, a teacher or, one&lt;/p&gt;</description><link>http://localhost:2368/2016/02/01/what-is-browsed/</link><guid isPermaLink="false">15efc7f3-1af4-4b9a-8745-e33712fe2c4d</guid><dc:creator>Sitesh Shrivastava</dc:creator><pubDate>Sun, 31 Jan 2016 22:24:11 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+  &lt;p&gt;Man is by nature a social animal. &lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Got a streak of geek? We've got you covered there, too. You can write inline &lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt; blocks really easily with back ticks. Want to show off something more comprehensive? 4 spaces of indentation gets you there.&lt;/p&gt;
+&lt;p&gt;In contrast to other living beings, We don't just &lt;em&gt;need&lt;/em&gt; to be with other people but, we &lt;em&gt;choose&lt;/em&gt; to be with someone for a reason. It may be for a companion, a family member, a colleague, a friend or, a teacher or, one of the zillion other things. This want is further strengthened by a never ending quest for understanding fellow beings to explore something beyond together.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;.awesome-thing {
-    display: block;
-    width: 100%;
-}
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;We often come out on the other end of this journey as a little improved version of ourselves. This experience is gratifying yet a humbling experience. This might be the reason we have always been looking to improve the ways to reach out, to connect and, to understand others. Our medium of communication might have changed but, the crux of it remains the same. It is the same underlying reason we travelled seas, created societies, invented electronics and are building internet.&lt;/p&gt;
 
-&lt;h3 id="readyforabreak"&gt;Ready for a Break?&lt;/h3&gt;
+&lt;p&gt;Present age is, by far, the best time to accomplish these wants yet, most people are plagued by several cons that come along the way. &lt;br&gt;
+People are finding it easier to connect online rather than in-person. Relationships seem less genuine and more transactional. There is information overflow but, so few ideas.&lt;/p&gt;
 
-&lt;p&gt;Throw 3 or more dashes down on any new line and you've got yourself a fancy new divider. Aw yeah.&lt;/p&gt;
+&lt;p&gt;The idea behind &lt;em&gt;Browsed&lt;/em&gt; is based on such questions like: &lt;/p&gt;
 
-&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;What if world was made more transparent?&lt;/li&gt;
+&lt;li&gt;What if technology allowed people to show others what they really think while not being confrontational simultaneously?&lt;/li&gt;
+&lt;li&gt;What if essence of ideas could be extracted from the information overflow in your social network?&lt;/li&gt;
+&lt;li&gt;What if you were free from 'fear of missing out'?&lt;/li&gt;
+&lt;li&gt;What if you could relate to people in your network better offline after knowing them online?&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h3 id="advancedusage"&gt;Advanced Usage&lt;/h3&gt;
-
-&lt;p&gt;There's one fantastic secret about Markdown. If you want, you can write plain old HTML and it'll still work! Very flexible.&lt;/p&gt;
-
-&lt;p&gt;&lt;input type="text" placeholder="I'm an input field!"&gt;&lt;/p&gt;
-
-&lt;p&gt;That should be enough to get you started. Have fun - and let us know what you think :)&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;&lt;a href="http://browsed.xyz/"&gt;Browsed&lt;/a&gt; is just getting started and will only grow from here onwards. It has long road ahead but, I'm excited about what the future holds for this project!&lt;/p&gt;</content:encoded></item></channel></rss>
